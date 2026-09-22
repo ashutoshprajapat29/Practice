@@ -1,3 +1,4 @@
+package Arrays;
 import java.util.*;
 public class Footn{
     public static void main(String args[]){

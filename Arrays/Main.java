@@ -1,3 +1,4 @@
+package Arrays;
 public class Main{
 
     public static void reverseArray(int arr[]){
